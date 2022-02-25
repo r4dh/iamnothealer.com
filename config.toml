@@ -1,0 +1,9 @@
+baseURL = 'http://example.org/'
+title = 'My New Hugo Site'
+theme = "hugo-coder-main"
+
+languageCode = "ja"
+DefaultContentLanguage = "ja"
+
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
