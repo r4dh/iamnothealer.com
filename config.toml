@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 title = 'My New Hugo Site Hello World'
-theme = "hugo-coder-main"
+theme = "starter-hugo-academic-master"
 
 languageCode = "ja"
 DefaultContentLanguage = "ja"
